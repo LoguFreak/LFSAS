@@ -1,0 +1,192 @@
+
+/* title */
+body
+{
+    font-family: "Montserrat";
+}
+
+#sec1
+{
+    color:#fff;
+    background-color:#0D4C92;
+    padding:3% 15%;
+}
+
+.logo
+{
+    height:35px;
+    margin-right:10px;
+}
+
+h1,h3
+{
+    font-family:"Montserrat-Black",sans-serif;
+    font-weight:900 !important;
+    line-height:1.5 !important;
+}
+
+
+
+
+
+/* Navigation bar */
+
+
+.navbar
+{
+    padding:0 0 4.5rem !important;
+}
+
+.navbar-brand
+{
+    font-family:"Ubuntu",sans-serif;
+    font-size:2rem !important;
+    font-weight: bold !important;
+}
+
+.nav-item
+{
+    padding:0 9px;
+}
+
+.nav-link
+{
+    font-family:'Montserrat-Light',sans-serif;
+}
+
+/* Download buttons */
+.download-button
+{
+    margin:10% 3% 7% !important;
+}
+
+
+/* Title Image */
+
+.delivery-pic
+{
+    height:400px;
+}
+
+
+/* section 2 : features */
+
+/* features text */
+h4
+{
+    font-family:"Montserrat",sans-serif;
+    font-size: 1.5rem!important;
+}
+
+.para
+{
+    color:#8f8f8f;
+}
+
+#features
+{
+    padding:7% 15%;
+    text-align:center;
+}
+
+/* features image */
+
+.tick
+{
+    color:green;
+    margin-bottom:1rem;
+}
+
+.brand
+{
+    color:red;
+    margin-bottom:1rem;
+
+}
+
+.bell
+{
+    color:orange;
+    margin-bottom:1rem;
+
+}
+
+
+
+/* hovering effect on features images */
+
+.tick:hover
+{
+    color:#0D4C92;
+}
+
+.brand:hover
+{
+    color:#0D4C92;
+}
+
+.bell:hover
+{
+    color:#0D4C92;
+}
+
+/* testimmonial-section */
+
+#testimonial-section
+{
+    padding:7% 15%;
+    text-align:center;
+    background-color: #10A19D;
+    color:#fff;
+}
+
+/* reviews */
+ 
+h5
+{
+    font-family: "ubuntu",sans-serif;
+    font-size: 2rem!important;
+    line-height: 1.5!important;    
+}
+
+/* user-image */
+
+.user
+{
+    border-radius: 100%;
+    width:75px;
+    height:75px;
+    margin:20px;
+}
+
+/* press-section */
+
+#press
+{
+    text-align:center;
+    background-color: #10A19D;
+    padding-bottom: 3%;
+}
+
+.carousel-item
+{
+    padding:7% 15%!important;
+}
+
+/* Pricing-section */
+#pricing
+{
+    padding:100px;
+    text-align: center;
+}
+
+.plans
+{
+    font-family:"Montserrat-Black",sans-serif;
+    font-weight:900 !important;
+    line-height:1.5 !important;
+}
+.pricing-column
+{
+    padding:3% 2%;
+}
